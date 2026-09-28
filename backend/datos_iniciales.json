@@ -1,0 +1,52 @@
+[
+  {
+    "model": "tareas.tarea",
+    "pk": 1,
+    "fields": {
+      "titulo": "Investigación sobre redes",
+      "curso": "Redes de Computadoras",
+      "fecha_entrega": "2026-09-30",
+      "estado": "pendiente"
+    }
+  },
+  {
+    "model": "tareas.tarea",
+    "pk": 2,
+    "fields": {
+      "titulo": "Práctica de bases de datos",
+      "curso": "Base de Datos",
+      "fecha_entrega": "2026-10-02",
+      "estado": "pendiente"
+    }
+  },
+  {
+    "model": "tareas.tarea",
+    "pk": 3,
+    "fields": {
+      "titulo": "Informe de ingeniería de software",
+      "curso": "Ingeniería de Software",
+      "fecha_entrega": "2026-10-05",
+      "estado": "completada"
+    }
+  },
+  {
+    "model": "tareas.tarea",
+    "pk": 4,
+    "fields": {
+      "titulo": "Ejercicios de estructuras de datos",
+      "curso": "Estructuras de Datos",
+      "fecha_entrega": "2026-10-07",
+      "estado": "pendiente"
+    }
+  },
+  {
+    "model": "tareas.tarea",
+    "pk": 5,
+    "fields": {
+      "titulo": "Exposición del proyecto",
+      "curso": "Gestión de Proyectos",
+      "fecha_entrega": "2026-10-10",
+      "estado": "completada"
+    }
+  }
+]
